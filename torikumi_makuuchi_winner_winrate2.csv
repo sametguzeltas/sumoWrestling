@@ -1,0 +1,6 @@
+year,month,tournament,day,winner_rank,winner_name,winner_num_win,winner_num_loss,winner_technique,loser_rank,loser_name,loser_num_win,losser_num_loss
+2018,01,hatsu,15,M14e,Abi,10,5,oshidashi,M9e,Shohozan,9,6
+2018,03,haru,15,M7e,Abi,10,5,hatakikomi,M13e,Daishomaru,9,6
+2018,05,natsu,14,M2w,Abi,7,7,yorikiri,M3w,Yutakayama,2,12
+2018,07,nagoya,15,M3e,Abi,6,9,oshidashi,M11e,Aoiyama,8,7
+2018,09,aki,9,M4w,Abi,6,3,tsukidashi,M7w,Tochiozan,3,6
